@@ -57,6 +57,3 @@ Must have a good knowledge on how to use visual studio.
 Download Visual Studio
 * [Visual Studio](https://visualstudio.microsoft.com/vs/)
 
-
-Project Link: [Handy App](https://github.com/asadahmed01/handyapp/)
-<p align="right">(<a href="#top">back to top</a>)</p>
